@@ -5,7 +5,7 @@
 * 🧐   Interested in Machine learning. Recent focus on Deep learning, NLP.
 * 💼   A nuclear technology  application engineer, work at China Academy of Engineering Physics. Now I looking for a job in the field of AI.
 * 🎓   Bachelor of Nuclear Engineering and Nuclear Technology.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://inpure.github.io/).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://inpure.github.io/) 📓.
 <!--
 **inpure/inpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
