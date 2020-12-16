@@ -3,7 +3,7 @@
 ![](icons/header.png)
 
 * 🧐   Interested in Machine learning. Recent focus on Deep learning, NLP.
-* 💼   Work at China Academy of Engineering Physics, A nuclear technology  application engineer. Now I looking for a job in the field of AI.
+* 💼   A nuclear technology  application engineer, work at China Academy of Engineering Physics. Now I looking for a job in the field of AI.
 * 🎓   Bachelor of Nuclear Engineering and Nuclear Technology.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://inpure.github.io/).
 <!--
